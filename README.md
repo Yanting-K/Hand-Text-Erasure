@@ -1,3 +1,6 @@
+# 手写文字擦除方法使用可以参照[read_me](/read_me.md)文件
+
+
 # EraseNet
 
 This repository is the implementation of EraseNet, a neural network for end-to-end scene text removal.
